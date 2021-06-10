@@ -1,2 +1,2 @@
-Software Engineering Course Project
-Project Name: Student Jobs
+Software Engineering Course Project  
+Project Name: Student Jobs  
