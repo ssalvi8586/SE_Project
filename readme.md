@@ -1,2 +1,1 @@
-# Demo
-test!!!
+Software Engineering Course Project
